@@ -33,9 +33,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: (add if you want)
-- 🔗 LinkedIn: (add if available)
-- 📱 Instagram/YouTube (optional if you want to showcase)
+- 📧 Email: alokpatel1282@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/alok-patel-9a74a9373
 
 ---
 

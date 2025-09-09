@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alok Patel</h1>
 
-<!--
-**alokpatel21/alokpatel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌱 Class 12 Student | 🧠 Learning Python & AI | 🚀 Exploring New Tech
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 My Project
+- 🔹 [Alokwebspace](https://github.com/alokpatel21/Alokwebspace): My first basic HTML website
+
+---
+
+### 📚 Currently Learning
+- Python Programming
+- Artificial Intelligence (AI Tools & Basics)
+- New & Emerging Technologies (AI Video Tools, ChatGPT, etc.)
+
+---
+
+### ⚒️ Tools I Use
+- GitHub Mobile
+- Canva, CapCut (for content & video creation)
+- ChatGPT, Pika Labs, Leonardo AI (exploring)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpatel21&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 Email: (add if you want)
+- 🔗 LinkedIn: (add if available)
+- 📱 Instagram/YouTube (optional if you want to showcase)
+
+---
+
+> "I may be a student today, but I'm building my future with code and creativity." 🚀
